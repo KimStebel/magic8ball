@@ -1,0 +1,50 @@
+makePaymentAmount take a payment of {amount} pounds
+makePaymentAmount to take a payment of {amount} pounds
+
+makePaymentAmount pay {amount} pounds
+makePaymentAmount to pay {amount} pounds
+
+makePaymentAmount take a payment of {amount}
+makePaymentAmount to take a payment of {amount}
+
+
+
+makePayment take a payment
+makePayment to take a payment
+
+makePayment pay
+makePayment to pay
+
+
+
+specifyAmount {amount}
+specifyAmount {amount} pounds
+specifyAmount pay {amount} pounds
+specifyAmount I want to pay {amount} pounds
+specifyAmount I would like to pay {amount} pounds
+
+contactOvo How do I call ohvo
+contactOvo how do I get in touch with ohvo?
+contactOvo how do I contact ohvo?
+contactOvo what is ohvo's contact number?
+contactOvo what is ohvo's telephone number?
+contactOvo what is ohvo's phone number?
+contactOvo How do I call O.V.O.
+contactOvo how do I get in touch with O.V.O.?
+contactOvo how do I contact O.V.O.?
+contactOvo what is O.V.O.'s contact number?
+contactOvo what is O.V.O.'s telephone number?
+contactOvo what is O.V.O.'s phone number?
+
+
+logIn How do I log into my ohvo account?
+logIn How do I log in?
+logIn How do I sign in my ohvo account?
+logIn How do I sign in?
+
+energySaving How can I save energy?
+energySaving Why is my bill so high?
+energySaving How can I save money?
+energySaving How can I use less energy?
+energySaving How can I pay less money?
+energySaving How can I spend less money on energy?

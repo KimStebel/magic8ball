@@ -1,0 +1,45 @@
+{
+  "intents": [
+    {
+      "intent": "makePaymentAmount",
+      "slots": [
+        {
+          "name": "amount",
+          "type": "AMAZON.NUMBER"
+        }
+      ]
+    },{
+      "intent": "makePayment",
+      "slots": []
+    },{
+      "intent": "specifyAmount",
+      "slots": [
+        {
+          "name": "amount",
+          "type": "AMAZON.NUMBER"
+        }
+      ]
+    },  {
+      "intent": "contactOvo",
+      "slots": [
+      ]
+    },
+    {
+     "intent": "logIn",
+     "slots": [
+     ]
+   },
+   {
+    "intent": "energySaving",
+    "slots": [
+    ]
+  },
+    {
+      "intent": "AMAZON.NoIntent"
+    }, {
+      "intent": "AMAZON.YesIntent"
+    }, {
+      "intent": "AMAZON.CancelIntent"
+    }
+  ]
+}
